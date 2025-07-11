@@ -12,6 +12,8 @@ A sleek and modern weather web application built using **React**, **Vite**, and 
 
 ---
 
+[![Weather App Preview](./preview.png.png)](https://my-weather-web-app-eta.vercel.app//)
+
 ## ✨ Features
 
 - 🔍 Search weather by city name
