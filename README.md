@@ -63,7 +63,7 @@ A sleek and modern weather web application built using **React**, **Vite**, and 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/satyendragautam901/my_weather_web_app.git
 cd weather-app
 ```
 ### 2. Install dependencies
